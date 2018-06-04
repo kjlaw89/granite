@@ -1,0 +1,7 @@
+build/*
+debian/build/*
+debian/com.github.kjlaw89.granite.debhelper.log
+debian/com.github.kjlaw89.granite.substvars
+debian/com.github.kjlaw89.granite/
+debian/debhelper-build-stamp
+debian/files

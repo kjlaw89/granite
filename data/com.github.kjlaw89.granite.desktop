@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Test Granite App
+Comment=Testing Archetype Granite
+Icon=com.github.kjlaw89.granite
+Exec=com.github.kjlaw89.granite
+Terminal={{ terminal-mode }}
+Type=Application
+StartupNotify=true
+Categories=GNOME;GTK;
+Keywords=app;vala;
